@@ -56,7 +56,7 @@ def login(user,password):
     #print(userid)
  
     return login_token,userid
- 
+  
 #主函数
 def main(user, passwd, step, sckey):
     user = str(user)
